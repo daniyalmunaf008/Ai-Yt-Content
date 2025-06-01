@@ -1,0 +1,7 @@
+streamlit
+youtube-transcript-api
+textblob
+requests
+pandas
+python-dotenv
+plotly
