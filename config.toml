@@ -1,0 +1,4 @@
+[server]
+maxMessageSize = 1000
+maxUploadSize = 1000
+maxCachedMessageAge = 300
